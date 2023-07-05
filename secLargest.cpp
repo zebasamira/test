@@ -13,7 +13,7 @@ int findSecondLargest(int arr[], int size){
 			max2 = arr[i];
 		}
 	}
-	return max2;
+	return max2
 }
 
 int main (){
